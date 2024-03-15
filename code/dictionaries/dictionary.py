@@ -124,8 +124,14 @@ sam["weight"] = 385
 # print(sam)
 
 
+# BUILT IN FUNCTIONS:
+
 # OPERATIONS:
 # in/not in: checks if value exists in dictionary as key
 # in/not in values():
 # if "Sam" in sam.values():
 #     print("Sam exists")
+
+# all() checks to see if all keys are True. If False or 0 returns False.
+# any() -> if all True returns True, if all False returns False, if one True returns True
+# sorted(with dictionary) -> returns an array of the keys sorted.
